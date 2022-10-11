@@ -21,21 +21,21 @@ while True:
     while player_choice > 5 and player_choice < 1:
         player_choice = int(input("enter valid input: "))
 
-    # initialize value of choice_col variable
+    # initialize value of choice_color variable
     # corresponding to the player_choice value
     if player_choice == 1:
-        choice_col = "red"
+        choice_color = "red"
     elif player_choice == 2:
-        choice_col = "yellow"
+        choice_color = "yellow"
     elif player_choice == 3:
-        choice_col = "orange"
+        choice_color = "orange"
     elif player_choice == 4:
-        choice_col = "green"
+        choice_color = "green"
     else:
-        choice_col = "blue"
+        choice_color = "blue"
 
     # print user choice
-    print("user color choice is: " + choice_col)
+    print("user color choice is: " + choice_color)
     print("\nNow its computer turn to choose a color.......")
 
     # Computer chooses randomly any number
@@ -48,23 +48,23 @@ while True:
     while computer_choice == player_choice:
         computer_choice = random.randint(1, 5)
 
-    # initialize value of compu_choice_col
+    # initialize value of compu_choice_color
     # variable corresponding to the computer_choice value
     if computer_choice == 1:
-        compu_choice_col = "red"
+        compu_choice_color = "red"
     elif computer_choice == 2:
-        compu_choice_col = "yellow"
+        compu_choice_color = "yellow"
     elif computer_choice == 3:
-        compu_choice_col = "orange"
+        compu_choice_color = "orange"
     elif computer_choice == 4:
-        compu_choice_col = "green"
+        compu_choice_color = "green"
     else:
-        compu_choice_col = "blue"
+        compu_choice_color = "blue"
 
-    print("Computer color choice is: " + compu_choice_col)
+    print("Computer color choice is: " + compu_choice_color)
 
     # conditions for winning
-    if choice_col == compu_choice_col:
+    if choice_color == compu_choice_color:
         player_score += 1
         print("player_score: " + str(player_score))
         print("computer_score: " + str(computer_score))
