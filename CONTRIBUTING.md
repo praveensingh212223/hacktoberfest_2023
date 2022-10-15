@@ -1,5 +1,5 @@
-#### Name: [Praveen Singh](https://github.com/praveensinghrajput23)
+#### Name: [Arya Pratim Ray](https://github.com/ARYA-RAY)
 
-- Place: Dwarka,New Delhi, India
-- Bio: I am a Software Developer in a Startup.
-- GitHub: [GitHub account name](https://github.com/praveensinghrajput23)
+- Place: Kolkata,West Bengal, India
+- Bio: I am a Student of IIIT Kalyani.
+- GitHub: [ARYA-RAY](https://github.com/ARYA-RAY)
