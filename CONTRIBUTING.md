@@ -11,3 +11,11 @@
 - Place: Colombo, Sri Lanka
 - Bio: I am a UI/UX Designer in a Startup.
 - GitHub: [hiradev](https://github.com/hiradev)
+
+---------------------------------------------------------------------------
+
+#### Name: [Idris Musa](https://github.com/idrismusa4)
+
+- Place: Abuja,Nigeria
+- Bio: I am a Web Developer.
+- GitHub: [idrismusa4](https://github.com/idrismusa4)
