@@ -1,16 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dicee - Roll Me</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <div class="container">
-        Roll Me
+      <h1 class="absolute-center">Roll Me</h1>
+
+      <div class="dices absolute-center">
+        <div class="dice">
+          <p>Player 1</p>
+          <img class="img1" src="images/dice6.png" />
+        </div>
+
+        <div class="dice">
+          <p>Player 2</p>
+          <img class="img2" src="images/dice6.png" />
+        </div>
+      </div>
+
+      <div class="roll absolute-center">
+        <button class="roll-btn">Lets Roll</button>
+      </div>
     </div>
+
+    <footer class="absolute-center">&copy; dhawal-793</footer>
     <script src="index.js"></script>
-</body>
+  </body>
 </html>
