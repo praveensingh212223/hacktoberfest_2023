@@ -11,3 +11,9 @@
 - Place: Colombo, Sri Lanka
 - Bio: I am a UI/UX Designer in a Startup.
 - GitHub: [hiradev](https://github.com/hiradev)
+
+#### Name: [Shivam Singh](https://github.com/sd-shiivam)
+
+- Place: Kushinagar, India
+- Bio: I am a Programmer.
+- GitHub: [GitHub account name](https://github.com/sd-shiivam)
