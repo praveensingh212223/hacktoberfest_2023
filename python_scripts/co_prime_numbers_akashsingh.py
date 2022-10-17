@@ -14,7 +14,10 @@ def gcd(p,q):
     return p
 def is_coprime(x, y):
     return gcd(x, y) == 1
-print(is_coprime(17, 13))
-print(is_coprime(17, 21))
-print(is_coprime(15, 21))
-print(is_coprime(25, 45))
+
+a=int(input("Enter the first number\n"))
+b=int(input("Enter the second number\n"))
+if(is_coprime(a,b)==1):
+    print("The numbers are coprime")
+else:
+    print("The numbers are not coprime")
