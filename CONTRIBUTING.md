@@ -1,4 +1,4 @@
-#### Name: [Praveen Singh](https://github.com/praveensinghrajput23)
+#### Name: [Akash Singh](https://github.com/praveensinghrajput23)
 
 - Place: Dwarka,New Delhi, India
 - Bio: I am a Software Developer in a Startup.
@@ -17,3 +17,10 @@
 - Place: Kushinagar, India
 - Bio: I am a Programmer.
 - GitHub: [GitHub account name](https://github.com/sd-shiivam)
+---------------------------------------------------------------------------
+
+#### Name: [Idris Musa](https://github.com/idrismusa4)
+
+- Place: Abuja,Nigeria
+- Bio: I am a Web Developer.
+- GitHub: [idrismusa4](https://github.com/idrismusa4)
