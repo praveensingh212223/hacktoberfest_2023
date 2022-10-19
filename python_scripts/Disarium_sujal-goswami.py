@@ -1,7 +1,7 @@
 
-import math
-
-def check(n) :
+def check() :
+	
+	n = input("Enter your number to check: ")
 
 	count_digits = len(str(n))
 	
