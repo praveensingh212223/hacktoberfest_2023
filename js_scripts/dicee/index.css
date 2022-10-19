@@ -1,0 +1,114 @@
+body {
+    background-image: linear-gradient(rgba(55, 234, 247, 0.7) ,rgba(176, 106, 250, 0.8));
+    overflow: hidden;
+  }
+  
+  .absolute-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+  }
+  
+  .container {
+    width: 90vw;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    position: relative;
+  }
+  
+  h1 {
+    top: 3vh;
+    font-family: "Lobster", cursive;
+    text-shadow: 5px 0 #232931;
+    color: #4ecca3;
+    font-size: 2rem;
+  }
+  
+  .dices {
+    top: 35%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .dice {
+    width: 30%;
+    max-width: 360px;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #098b60;
+    font-family: "Indie Flower", cursive;
+    font-size: 1.2rem;
+  }
+  
+  img {
+    width: 40%;
+  }
+  
+  footer {
+    bottom: 3vh;
+    color: #eeeeee;
+    text-align: center;
+    font-family: "Indie Flower", cursive;
+    font-size: 1rem;
+  }
+  
+  .roll {
+    bottom: 20vh;
+
+  }
+  .roll-btn {
+    cursor: pointer;
+    padding: 0.4rem 0.8rem;
+    background-color: #4ecca3;
+    color: white;
+    font-size: 1.1rem;
+    border: 2px solid #4ecca3;
+    border-radius: 9999px;
+  }
+  .roll-btn:hover{
+    background-color: #2db386;
+    border: 2px solid #2db386;
+    scale: 1.06;
+  }
+
+  @media (min-width: 640px) {
+    h1{
+      top: 0.5vh;
+    }
+    .dice {
+      width: 40%;
+    }
+    .dices{
+        top: 28%;
+    }
+    p {
+      font-size: 2rem;
+    }
+    .roll-btn{
+      padding: 0.6rem 1rem;
+      font-size: 1.3rem;
+    }
+    footer{
+      bottom: 1vh;
+      font-size: 1.5rem;
+    }
+  }
+  @media (min-width: 768px) {
+    h1 {
+      font-size: 4rem;
+      top: 1.5vh;
+    }
+    .roll {
+      bottom: 15vh;
+    }
+  }
+  @media (min-width: 1024px) {
+  h1{
+    top: 1vh;
+  }
+  }
+  
