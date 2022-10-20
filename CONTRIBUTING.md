@@ -24,3 +24,9 @@
 - Place: Abuja,Nigeria
 - Bio: I am a Web Developer.
 - GitHub: [idrismusa4](https://github.com/idrismusa4)
+
+#### Name: [Blessing O. Edward](https://github.com/Edybee)
+
+- Place: Ekiti, Nigeria
+- Bio: I am a Documentation/Copy Specialist
+- Github: [Edybee](https://github.com/Edybee)
