@@ -24,3 +24,11 @@
 - Place: Abuja,Nigeria
 - Bio: I am a Web Developer.
 - GitHub: [idrismusa4](https://github.com/idrismusa4)
+
+---------------------------------------------------------------------------
+
+#### Name: [Cesar Freire](https://github.com/cesarfreire)
+
+- Place: Rio do Sul, Santa Catarina, Brazil
+- Bio: Infrastructure analyst, and programmer sometimes.
+- GitHub: [cesarfreire](https://github.com/cesarfreire)
