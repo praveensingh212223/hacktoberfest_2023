@@ -24,3 +24,10 @@
 - Place: Abuja,Nigeria
 - Bio: I am a Web Developer.
 - GitHub: [idrismusa4](https://github.com/idrismusa4)
+
+#### Name: [Oluwaferanmi ADENIYI](https://github.com/Victorayo)
+
+- Place: Kwara, Nigeria 
+- Bio: Designer| Football Analyst | Data Analyst 
+- GitHub: [Victorayo](https://github.com/Victorayo 
+
