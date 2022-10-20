@@ -24,3 +24,10 @@
 - Place: Abuja,Nigeria
 - Bio: I am a Web Developer.
 - GitHub: [idrismusa4](https://github.com/idrismusa4)
+
+#### Name: [Motolani Cephas](https://github.com/motolanicephas)
+
+- place: Ekiti state,Nigeria
+- Bio: I am a product designer and a graphic designer 
+- GitHub: [motolanicephas](https://github.com/motolanicephas) 
+
