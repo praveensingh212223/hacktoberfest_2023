@@ -30,3 +30,9 @@
 - Place: Ekiti, Nigeria
 - Bio: I am a Documentation/Copy Specialist
 - Github: [Edybee](https://github.com/Edybee)
+
+#### Name: [Olabiyi Oluwaferanmi](https://github.com/pheranmy7)
+
+- Place: Ekiti, Nigeria
+- Bio: I am a Fullstack developer/Flutter developer
+- Github: [pheranmy7](https://github.com/pheranmy7)
