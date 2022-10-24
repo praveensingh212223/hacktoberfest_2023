@@ -31,3 +31,9 @@
 - Bio: Designer| Football Analyst | Data Analyst 
 - GitHub: [Victorayo](https://github.com/Victorayo 
 
+----------------------------------------—-----------------------------------
+#### Name: [Blessing O. Edward](https://github.com/Edybee)
+
+- Place: Ekiti, Nigeria
+- Bio: I am a Documentation/Copy Specialist
+- Github: [Edybee](https://github.com/Edybee)
