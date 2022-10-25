@@ -30,3 +30,10 @@
 - Place: Ekiti, Nigeria
 - Bio: I am a Documentation/Copy Specialist
 - Github: [Edybee](https://github.com/Edybee)
+
+
+#### Name: [Chirag Verma](https://github.com/Chirag-v09)
+
+- Place: India
+- Bio: Student
+- Github: [Chirag Verma](https://github.com/Chirag-v09)
