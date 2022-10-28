@@ -1,4 +1,4 @@
-#### Name: [Akash Singh](https://github.com/praveensinghrajput23)
+#### Name: [Praveen Singh](https://github.com/praveensinghrajput23)
 
 - Place: Dwarka,New Delhi, India
 - Bio: I am a Software Developer in a Startup.
@@ -11,6 +11,7 @@
 - Place: Colombo, Sri Lanka
 - Bio: I am a UI/UX Designer in a Startup.
 - GitHub: [hiradev](https://github.com/hiradev)
+---------------------------------------------------------------------------
 
 #### Name: [Shivam Singh](https://github.com/sd-shiivam)
 
@@ -32,3 +33,11 @@
 - Place: Rio do Sul, Santa Catarina, Brazil
 - Bio: Infrastructure analyst, and programmer sometimes.
 - GitHub: [cesarfreire](https://github.com/cesarfreire)
+---------------------------------------------------------------------------
+
+#### Name: [Blessing O. Edward](https://github.com/Edybee)
+
+- Place: Ekiti, Nigeria
+- Bio: I am a Documentation/Copy Specialist
+- Github: [Edybee](https://github.com/Edybee)
+
