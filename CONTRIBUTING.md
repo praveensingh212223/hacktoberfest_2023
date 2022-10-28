@@ -30,3 +30,9 @@
 - Place: Ekiti, Nigeria
 - Bio: I am a Documentation/Copy Specialist
 - Github: [Edybee](https://github.com/Edybee)
+
+#### Name: [Shivang Parmar](https://github.com/Shivang143)
+
+- Place: Vadodara, Gujarat, India
+- Bio: Computer Science Student
+- Github: [Shivang Parmar](https://github.com/Shivang143)
