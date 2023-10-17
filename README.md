@@ -1,5 +1,5 @@
-# hacktoberfest_2022
-Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Submit Just 4 PRs to earn SWAGS and Tshirtsfire. Here is a starter project for first time contributors. #hacktoberfest 
+# hacktoberfest_2023
+Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Submit Just 4 PRs to earn cool batches and contribute to mother nature by planting trees. Here is a starter project for first time contributors. #hacktoberfest 
 
 # 🎃 HacktoberFest Starter Project 🎃
 
@@ -26,7 +26,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/praveensingh212223/hacktoberfest_2022.git
+git clone https://github.com/praveensingh212223/hacktoberfest_2023.git
 ```
 
 - Create a branch
