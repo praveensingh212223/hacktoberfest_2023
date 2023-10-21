@@ -41,3 +41,11 @@
 - Bio: I am a Documentation/Copy Specialist
 - Github: [Edybee](https://github.com/Edybee)
 
+---------------------------------------------------------------------------
+
+#### Name: [Karan Malhotra](https://github.com/kmalhotra08)
+
+Place: Seattle, Wa, USA
+Bio: programmer.
+GitHub: [KaranMalhotra](https://github.com/kmalhotra08)
+
