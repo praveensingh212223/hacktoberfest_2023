@@ -1,4 +1,4 @@
-""" Creating ASCII Art from User-specified text"""
+""" Python Program for Creating ASCII Art from User-specified text"""
 # Importing the pyfiglet library, which is used to create ASCII art from text.
 # Define a function that generates ASCII art from the given text.
 #Prompting the user for text.
