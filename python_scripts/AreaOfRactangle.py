@@ -18,3 +18,5 @@ if __name__ == "__main__":
   area = rectangle_area(length, width)
 
   print("The area of the rectangle is: ", area)
+
+#It will print the area of ractangle
