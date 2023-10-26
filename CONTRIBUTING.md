@@ -54,5 +54,5 @@
 
 - Place: Chandigarh, India
 - Bio: I am a Web Developer/Programmer
-- Github: [Edybee](https://github.com/harivanshx)
+- Github: [Harivanshx](https://github.com/harivanshx)
 ---------------------------------------------------------------------------
