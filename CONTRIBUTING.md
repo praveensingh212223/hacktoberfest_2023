@@ -47,3 +47,12 @@
 - Place: Hyderabad, Telangana, India
 - Bio: I am a Programmer.
 - GitHub: [HariNithyaRao](https://github.com/HariNithyaRao)
+---------------------------------------------------------------------------
+
+
+#### Name: [Harivansh Bhardwaj](https://github.com/harivanshx)
+
+- Place: Chandigarh, India
+- Bio: I am a Web Developer/Programmer
+- Github: [Edybee](https://github.com/harivanshx)
+---------------------------------------------------------------------------
