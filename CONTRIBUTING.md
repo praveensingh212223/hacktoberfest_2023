@@ -40,4 +40,10 @@
 - Place: Ekiti, Nigeria
 - Bio: I am a Documentation/Copy Specialist
 - Github: [Edybee](https://github.com/Edybee)
+---------------------------------------------------------------------------
 
+#### Name: [HariNithya](https://github.com/HariNithyaRao)
+
+- Place: Hyderabad, Telangana, India
+- Bio: I am a Programmer.
+- GitHub: [HariNithyaRao](https://github.com/HariNithyaRao)
